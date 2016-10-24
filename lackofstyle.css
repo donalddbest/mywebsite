@@ -34,7 +34,7 @@ li {
 	color:red;
 }
 html { 
-  background: url("color.png") no-repeat center center fixed; 
+  background: url("Pages/color.png") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
