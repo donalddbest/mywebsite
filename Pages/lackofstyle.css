@@ -1,0 +1,42 @@
+p, h1, h4 {
+	font-family: 'Roboto Slab', serif;
+}
+
+p {
+	width:600px;
+	font-size:25px;
+	color: gold;
+}
+h2,h3,h4 {
+	color: gold;
+}
+a {
+	color: gold;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li {
+	display:inline;
+}
+.Nav-bar a {
+	text-decoration: none;
+	color: gold;
+	font-size: 30px;
+	background-color:#000000;
+}
+/*.about p {
+	color:green;
+}*/
+.complaints a{
+	color:red;
+}
+html { 
+  background: url("color.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
