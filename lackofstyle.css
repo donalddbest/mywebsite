@@ -1,7 +1,6 @@
 p, h1, h4 {
 	font-family: 'Roboto Slab', serif;
 }
-
 p {
 	width:600px;
 	font-size:25px;
@@ -27,11 +26,12 @@ li {
 	font-size: 30px;
 	background-color:#000000;
 }
-/*.about p {
-	color:green;
-}*/
+a:hover {
+	color: red;
+}
 .complaints a{
 	color:red;
+	background-color: #000000;
 }
 html { 
   background: url("Pages/color.png") no-repeat center center fixed; 
