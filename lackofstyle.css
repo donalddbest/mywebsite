@@ -1,3 +1,7 @@
+body {
+	background-size: cover;
+	background-repeat: no-repeat;
+}
 p, h1, h4 {
 	font-family: 'Roboto Slab', serif;
 }
@@ -32,11 +36,4 @@ a:hover {
 .complaints a{
 	color:red;
 	background-color: #000000;
-}
-html { 
-  background: url("Pages/color.png") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 }
